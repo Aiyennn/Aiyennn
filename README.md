@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Kline
-
+### Hello World! 👋,
 Skills: Python
 
 - 🔭 I’m currently working on this page. 
