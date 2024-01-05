@@ -6,7 +6,7 @@ I'm just starting out in the world of coding. I'm incredibly eager to learn and 
 
 ## About Me
 
-- 🌱 I’m currently learning: [Python]
+- 🌱 I’m currently learning: [Python, SQL]
 
 ## I'm Currently working on
 
