@@ -4,4 +4,4 @@ Hi there! 👋
 
 Currently Learning [Web Development]
 # Tech Stack
-<img src="HTML5.png" width="25" height="auto">
+<img src="HTML5.png" width="50" height="auto">
