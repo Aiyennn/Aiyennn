@@ -4,4 +4,4 @@ Hi there! 👋
 
 Currently Learning [Web Development]
 # Tech Stack
-![Logo](HTML5.png)
+<img src="HTML5.png" width="25" height="auto">
