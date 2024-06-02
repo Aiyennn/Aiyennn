@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-Currently Learning [Web Development]
+Currently Learning [Web Development] <br>
 Interested in Machine Learning
 # Tech Stack
 <img src="Logo/HTML5.png" width="45" height="auto"> <img src="Logo/CSS.png" width = "45" height = "auto"> <img src="Logo/Javascript.png" width="45" height="auto"> 
