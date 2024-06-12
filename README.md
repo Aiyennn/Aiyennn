@@ -6,11 +6,11 @@ Currently Learning [Web Development] <br>
 Interested in Machine Learning
 # Tech Stack
 
-Front-end
-[![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+Front-end<br>
+[![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br>
 
-Tools
-[![Tools](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+Tools<br>
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)<br>
 
-Others
-[![Others](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+Others<br>
+[![Others](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br>
