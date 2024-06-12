@@ -3,7 +3,6 @@
 Hi there! 👋
 
 Currently Learning [Web Development] <br>
-Interested in Machine Learning
 # Tech Stack
 
 Front-end<br>
