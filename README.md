@@ -5,9 +5,9 @@ Hi there! 👋
 Currently Learning [Web Development] <br>
 Interested in Machine Learning
 # Tech Stack
-<img src="Logo/HTML5.png" width="45" height="auto"> <img src="Logo/CSS.png" width = "45" height = "auto"> <img src="Logo/Javascript.png" width="45" height="auto"> 
 
-<img src="Logo/Python.png" width="45" height="auto"> 
+[![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-<img src="Logo/vscode.png" width="45" height="auto"> <img src="Logo/Github.png" width="45" height="auto"> 
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
 
+[![Others](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
