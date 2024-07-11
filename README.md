@@ -5,8 +5,9 @@ Hi there! 👋
 Currently Learning [Web Development] <br>
 # Tech Stack
 
-Front-end<br>
+Web-Development<br>
 [![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br>
+[![Back-End](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)<br>
 
 Tools<br>
 [![Tools](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)<br>
