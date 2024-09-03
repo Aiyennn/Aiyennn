@@ -6,7 +6,7 @@ Currently Learning [Web Development] <br>
 # Tech Stack
 
 Web-Development<br>
-[![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br>
+[![Front-End](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
 [![Back-End](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)<br>
 
 Tools<br>
