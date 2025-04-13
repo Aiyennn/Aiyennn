@@ -1,8 +1,5 @@
 # Welcome to My GitHub!
 
-Hi there! 👋
-
-Currently Learning [Web Development] <br>
 # Tech Stack
 
 Web-Development<br>
