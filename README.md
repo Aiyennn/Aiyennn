@@ -11,4 +11,4 @@ Tools<br>
 
 
 Others<br>
-[![Others](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)<br>
+[![Others](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)<br>
