@@ -9,7 +9,7 @@ I enjoy building scalable systems, solving complex problems, and continuously le
 
 ---
 
-## Tech Stack
+## 💻Tech Stack
 
 ### Front-End  
 [![Front-End](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
