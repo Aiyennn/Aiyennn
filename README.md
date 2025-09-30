@@ -26,4 +26,7 @@ I enjoy building scalable systems, solving complex problems, and continuously le
 ## 📌 Interests
 - Software Engineering (backend systems & architecture)  
 - Data Science & Machine Learning  
-- Databases & Distributed Systems  
+- Databases & Distributed Systems
+
+![Profile views](https://komarev.com/ghpvc/?username=Aiyennn&color=blue)
+
