@@ -1,14 +1,3 @@
-# Hi there 👋
-
-I'm a **Computer Science student** passionate about **Software Engineering** and **Data Science**.  
-I enjoy building scalable systems, solving complex problems, and continuously learning new technologies to improve my craft.
-
-
-## 📖 Currently
-- Learning **Backend Engineering** (databases, APIs, distributed systems, scalability)
-
----
-
 ## 💻Tech Stack
 
 ### Front-End  
@@ -22,11 +11,3 @@ I enjoy building scalable systems, solving complex problems, and continuously le
 
 ### Others  
 [![Others](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
-
-## 📌 Interests
-- Software Engineering (backend systems & architecture)  
-- Data Science & Machine Learning  
-- Databases & Distributed Systems
-
-![Profile views](https://komarev.com/ghpvc/?username=Aiyennn&color=blue)
-
