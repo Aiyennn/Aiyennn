@@ -6,7 +6,7 @@
 ### Back-End  
 [![Back-End](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,ts,postgres,redis)](https://skillicons.dev)
 
-[![Back-End2](https://skillicons.dev/icons?i=kafka,docker)](https://skillicons.dev)
+[![Back-End2](https://skillicons.dev/icons?i=kafka,docker,firebase,supabase)](https://skillicons.dev)
 
 ### Tools  
 [![Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,prisma)](https://skillicons.dev)
