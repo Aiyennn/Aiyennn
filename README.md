@@ -1,15 +1,27 @@
-## 💻Tech Stack
+## About Me
 
-### Front-End  
-[![Front-End](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+I build software and design systems.
 
-### Back-End  
-[![Back-End](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,ts,postgres,redis)](https://skillicons.dev)
+## Areas of Focus
 
-[![Back-End2](https://skillicons.dev/icons?i=kafka,docker,firebase,supabase)](https://skillicons.dev)
+- Backend Engineering
+- System Design & Architecture
+- Scalable Systems
+- Software Logic & Problem Solving
 
-### Tools  
+## 💻 Tech Stack
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,ts,postgres,mongodb,redis)](https://skillicons.dev)
+
+### Infrastructure & Distributed Systems
+[![Infrastructure](https://skillicons.dev/icons?i=kafka,docker,firebase,supabase)](https://skillicons.dev)
+
+### Tools
 [![Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,prisma)](https://skillicons.dev)
 
-### Others  
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+
+### Other Languages & Databases
 [![Others](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
