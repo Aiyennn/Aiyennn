@@ -5,6 +5,7 @@ I build software and design systems.
 ## Areas of Focus
 
 - Backend Engineering
+- AI Engineering
 - System Design & Architecture
 - Scalable Systems
 - Software Logic & Problem Solving
