@@ -13,16 +13,14 @@ I build software and design systems.
 ## 💻 Tech Stack
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,ts,postgres,mongodb,redis)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,ts,postgres,mongodb,redis)](https://skillicons.dev)</br>
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,golang,java,mysql)](https://skillicons.dev)
 
 ### Infrastructure & Distributed Systems
 [![Infrastructure](https://skillicons.dev/icons?i=kafka,docker,firebase,supabase)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,prisma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,prisma)](https://skillicons.dev)</br>
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
-
-### Other Languages & Databases
-[![Others](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
